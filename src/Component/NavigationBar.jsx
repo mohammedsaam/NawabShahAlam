@@ -30,6 +30,7 @@ export const NavigationBar = () => {
     </li>
   </ul>
   <h1>hennbiub</h1>
+  <h2>hellllllo</h2>
 <Switch>
       
       <Route path="/SideBar">
