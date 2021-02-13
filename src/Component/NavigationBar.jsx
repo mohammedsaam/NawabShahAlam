@@ -29,6 +29,7 @@ export const NavigationBar = () => {
       <a class="nav-link" href="/SideBar">Gallery</a>
     </li>
   </ul>
+  <h1>hennbiub</h1>
 <Switch>
       
       <Route path="/SideBar">
