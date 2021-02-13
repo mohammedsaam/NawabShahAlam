@@ -1,0 +1,9 @@
+.sidebars {
+    margin-top: 5%;
+    margin-right: 5%;
+    float: right;
+    font-size: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 9px black;
+    background-color: rgba(54, 58, 94, 0.5);
+  }
