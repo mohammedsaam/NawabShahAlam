@@ -152,7 +152,7 @@ const SideBar = () => {
           <Image src="Assest/CAC06.jpg" width="350px" height="300px" className="image"></Image>
           <Image src="Assest/CAC03.jpg" width="350px" height="300px" className="image"></Image>
           <Image src="Assest/CAC04.jpg" width="350px" height="300px" className="image"></Image>
-          
+           <h1>njnjbbddsbutvvewghhhhhybjkweiuuibjk hybh wyu</h1>
         <Switch>     
               <Route path="/photo">
                 <Photo/>
