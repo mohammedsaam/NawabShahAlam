@@ -1,5 +1,5 @@
 import React from 'react';
-import {ListGroup} from 'react-bootstrap'
+import {ListGroup, Image} from 'react-bootstrap'
 import {BrowserRouter as Router,Switch,Route,Link} from "react-router-dom";
 import CLanguageQuiz from './photos/CLanguageQuiz';
 import Photo from './photos/Photo';
@@ -144,6 +144,15 @@ const SideBar = () => {
           Winrar
           </ListGroup.Item>
           </ListGroup>
+          <Image src="Assest/CE01.jpg" width="350px" height="300px" className="image"></Image>
+          <Image src="Assest/CE02.jpg" width="350px" height="300px" className="image"></Image>
+          <Image src="Assest/CE03.jpg" width="350px" height="300px" className="image"></Image>
+          <Image src="Assest/BC01.jpg" width="350px" height="300px" className="image"></Image>
+          <Image src="Assest/BC02.jpg" width="350px" height="300px" className="image"></Image>
+          <Image src="Assest/CAC06.jpg" width="350px" height="300px" className="image"></Image>
+          <Image src="Assest/CAC03.jpg" width="350px" height="300px" className="image"></Image>
+          <Image src="Assest/CAC04.jpg" width="350px" height="300px" className="image"></Image>
+          
         <Switch>     
               <Route path="/photo">
                 <Photo/>

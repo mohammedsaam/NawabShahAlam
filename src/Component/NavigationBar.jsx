@@ -28,10 +28,7 @@ export const NavigationBar = () => {
     <li class="nav-item">
       <a class="nav-link" href="/SideBar">Gallery</a>
     </li>
-  </ul>
-  <h1>hennbiub</h1>
-  <h2>hellllllo</h2>
-  <h3>edtcfvgbhbr</h3>
+  </ul> 
 <Switch>
       
       <Route path="/SideBar">
